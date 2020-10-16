@@ -1,0 +1,622 @@
+#EXTM3U url-autor="FREE IPTV M3U - IPTV LINKS - M3U PLAYLIST https://hdbox.ws/" url-tvg="http://www.teleguide.info/download/new3/jtv.zip" deinterlace=1 tvg-logo="http://192.168.3.3/list/icons/%name%.png"
+########################################################################
+
+#EXTINF:-1,Первый канал
+http://92.50.244.214:8080/perviy
+
+#EXTINF:-1 tvg-name="Россия_1",Россия 1
+http://iptv1.sampo.ru/rossiya1
+
+#EXTINF:-1,Матч!
+http://92.50.244.214:8080/match
+
+#EXTINF:-1,НТВ
+http://92.50.244.214:8080/ntv
+
+#EXTINF:-1,Пятый Канал
+http://92.50.244.214:8080/pyatiy
+
+#EXTINF:-1,Культура
+http://92.50.244.214:8080/kultura
+
+#EXTINF:-1 tvg-name="Россия_24",Россия 24
+http://iptv1.sampo.ru/rossiya24
+
+#EXTINF:-1,Карусель
+http://92.50.244.214:8080/karusel
+
+#EXTINF:-1 tvg-name="ОТР",Общественное телевидение России
+http://iptv1.sampo.ru/otr
+
+#EXTINF:-1,ТВЦ
+http://92.50.244.214:8080/tvc
+
+##########################################
+
+#EXTINF:-1,РЕН ТВ
+http://92.50.244.214:8081/rentv
+
+#EXTINF:-1,СПАС
+http://92.50.244.214:8081/spas
+
+#EXTINF:-1,СТС
+http://92.50.244.214:8081/sts
+
+#EXTINF:-1,Домашний
+http://92.50.244.214:8081/domashniy
+
+#EXTINF:-1,ТВ3
+http://92.50.244.214:8081/tv3
+
+#EXTINF:-1,Пятница
+http://92.50.244.214:8081/sport
+
+#EXTINF:-1,Звезда
+http://92.50.244.214:8081/zvezda
+
+#EXTINF:-1,Мир
+http://92.50.244.214:8081/mir
+
+#EXTINF:-1,ТНТ
+http://92.50.244.214:8081/tnt
+
+#EXTINF:-1,Муз ТВ
+http://92.50.244.214:8081/muztv
+
+#########################################################################
+
+#EXTINF:-1,RuTV
+http://92.50.244.214:8002/test14
+
+#EXTINF:-1,TV Mall
+http://92.50.244.214:8002/test15
+
+#EXTINF:-1,ОТР
+http://92.50.244.214:8002/test16
+
+#EXTINF:-1,Amedia 2
+http://92.50.244.214:8002/test19
+
+#EXTINF:-1,Дамский клуб
+http://92.50.244.214:8002/test21
+
+#EXTINF:-1,ТВ Центр
+http://92.50.244.214:8002/test22
+
+#EXTINF:-1,Любимое Кино
+http://92.50.244.214:8002/test23
+
+#EXTINF:-1,Top Shop TV 
+http://92.50.244.214:8002/test24
+
+#EXTINF:-1,Домашний магазин
+http://92.50.244.214:8002/test25
+
+#########################################################################
+
+#EXTINF:-1,Дисней
+http://92.50.244.214:8000/test251
+
+#EXTINF:-1,Союз
+http://92.50.244.214:8000/test252
+
+#EXTINF:-1,Ювелирочка
+http://92.50.244.214:8000/test253
+
+#EXTINF:-1,8 Канал
+http://92.50.244.214:8000/test255
+
+#EXTINF:-1,ЧЕ
+http://92.50.244.214:8000/test257
+
+#EXTINF:-1,ТНТ-4
+http://92.50.244.214:8000/test258
+
+#EXTINF:-1,Раз ТВ
+http://92.50.244.214:8000/test259
+
+#EXTINF:-1,7 TV
+http://92.50.244.214:8000/test260
+
+#EXTINF:-1,Домашний
+http://92.50.244.214:8000/test261
+
+#EXTINF:-1,СТС Love
+http://92.50.244.214:8000/test262
+
+#EXTINF:-1,Muz TV 
+http://92.50.244.214:8000/test263
+
+#EXTINF:-1,Евроновости
+http://92.50.244.214:8000/test264
+
+#########################################################################
+
+#EXTINF:-1,MTV Russia
+http://92.50.244.214:8001/test301
+
+#EXTINF:-1,Nickelodeon CIS
+http://92.50.244.214:8001/test302
+
+#EXTINF:-1,Shop & Show
+http://92.50.244.214:8001/test304
+
+#EXTINF:-1,Paramount Channel
+http://92.50.244.214:8001/test305
+
+#EXTINF:-1,Spike TV
+http://92.50.244.214:8001/test306
+
+#EXTINF:-1,Paramount Comedy Russia
+http://92.50.244.214:8001/test308
+
+#EXTINF:-1,Первый канал (+2h)
+http://92.50.244.214:8001/test309
+
+#EXTINF:-1,Россия-1
+http://92.50.244.214:8001/test310
+
+#EXTINF:-1,ТВ-3
+http://92.50.244.214:8001/test311
+
+#EXTINF:-1,Детский
+http://92.50.244.214:8001/test312
+
+#EXTINF:-1,Мульт
+http://92.50.244.214:8001/test313
+
+#EXTINF:-1,Мир-24
+http://92.50.244.214:8001/test314
+
+#EXTINF:-1,Мир
+http://92.50.244.214:8001/test315
+
+#########################################################################
+
+#EXTINF:-1,Мульт и Музыка
+http://92.50.244.214:8007/test101
+
+#EXTINF:-1,2x2
+http://92.50.244.214:8007/test102
+
+
+#EXTINF:-1,Россия 1 +4 часа
+http://92.50.244.214:8007/test103
+
+#EXTINF:-1,Телеканал 360
+http://92.50.244.214:8007/test104
+
+#EXTINF:-1,История
+http://92.50.244.214:8007/test105
+
+#EXTINF:-1,Nickelodeon
+http://92.50.244.214:8007/test106
+
+#EXTINF:-1,DTX
+http://92.50.244.214:8007/test107
+
+#EXTINF:-1,ACB TV
+http://92.50.244.214:8007/test108
+
+#EXTINF:-1,VH1 Classic
+http://92.50.244.214:8007/test109
+
+#EXTINF:-1,МУЗ-ТВ
+http://92.50.244.214:8007/test110
+
+#EXTINF:-1,Сарафан
+http://92.50.244.214:8007/test111
+
+#EXTINF:-1,MTV Hits
+http://92.50.244.214:8007/test112
+
+#EXTINF:-1,ТНТ
+http://92.50.244.214:8007/test113
+
+#EXTINF:-1,Первый канал +4 часа
+http://92.50.244.214:8007/test114
+
+#EXTINF:-1,Русский Роман
+http://92.50.244.214:8007/test115
+
+#EXTINF:-1,Русский Детектив
+http://92.50.244.214:8007/test116
+
+#EXTINF:-1,Телекафе
+http://92.50.244.214:8007/test117
+
+#EXTINF:-1,Тайна
+http://92.50.244.214:8007/test118
+
+#EXTINF:-1,Т24
+http://92.50.244.214:8007/test119
+
+#EXTINF:-1,Русский Бестселлер
+http://92.50.244.214:8007/test120
+
+#EXTINF:-1,Живая планета
+http://92.50.244.214:8007/test121
+
+#EXTINF:-1,Крик TV
+http://92.50.244.214:8007/test122
+
+#EXTINF:-1,Твой ДОМ
+http://92.50.244.214:8007/test123
+
+#EXTINF:-1,БелРос
+http://92.50.244.214:8007/test125
+
+#EXTINF:-1,Ani
+http://92.50.244.214:8007/test126
+
+#EXTINF:-1,CINEMA
+http://92.50.244.214:8007/test127
+
+#EXTINF:-1,Продвижение
+http://92.50.244.214:8007/test128
+
+#EXTINF:-1,Самарское ТВ
+http://92.50.244.214:8007/test129
+
+#EXTINF:-1,Продвижение Сибирь
+http://92.50.244.214:8007/test130
+
+#EXTINF:-1,Bridge TV DANCE
+http://92.50.244.214:8007/test131
+
+#EXTINF:-1,Bridge TV CLASSIC
+http://92.50.244.214:8007/test132
+
+#########################################################################
+
+#EXTINF:-1,Da Vinci Learning
+http://92.50.244.214:8003/test31
+
+#EXTINF:-1,TV 1000 Русское Кино
+http://92.50.244.214:8003/test32
+
+#EXTINF:-1,TV 1000 Action
+http://92.50.244.214:8003/test33
+
+#EXTINF:-1,TV 1000
+http://92.50.244.214:8003/test34
+
+#EXTINF:-1,Viasat Explorer
+http://92.50.244.214:8003/test35
+
+#EXTINF:-1,Viasat History
+http://92.50.244.214:8003/test36
+
+#EXTINF:-1,Viasat Nature
+http://92.50.244.214:8003/test37
+
+#EXTINF:-1,Viasat Sport
+http://92.50.244.214:8003/test38
+
+#EXTINF:-1,Пятый Канал
+http://92.50.244.214:8003/test39
+
+#EXTINF:-1,Eurosport 1
+http://92.50.244.214:8003/test40
+
+#EXTINF:-1,Eurosport 2
+http://92.50.244.214:8003/test41
+###########################################################################
+
+#EXTINF:-1,Первый канал +2 часа
+http://92.50.244.214:8005/test147
+
+#EXTINF:-1,НТВ +2 часа
+http://92.50.244.214:8005/test148
+
+#EXTINF:-1,ТВЦ Урал
+http://92.50.244.214:8005/test149
+
+#EXTINF:-1,ТНТ +2 часа
+http://92.50.244.214:8005/test150
+
+#EXTINF:-1,ТВЦ
+http://92.50.244.214:8005/test151
+
+#EXTINF:-1,BelRos
+http://92.50.244.214:8005/test153
+
+#EXTINF:-1,MCM Top Russia
+http://92.50.244.214:8005/test155
+
+#EXTINF:-1,Астрахань 24
+http://92.50.244.214:8005/test156
+
+#EXTINF:-1,Outdoor Channel International
+http://92.50.244.214:8005/test157
+
+#EXTINF:-1,RU TV
+http://92.50.244.214:8005/test158
+
+#EXTINF:-1,Travel Channel
+http://92.50.244.214:8005/test159
+
+#EXTINF:-1,RT Documentary
+http://92.50.244.214:8005/test160
+
+#EXTINF:-1,RT News
+http://92.50.244.214:8005/test161
+
+#EXTINF:-1,RTG TV
+http://92.50.244.214:8005/test162
+
+#EXTINF:-1,Ювелирочка
+http://92.50.244.214:8005/test163
+
+#EXTINF:-1,Bridge TV Hits
+http://92.50.244.214:8005/test164
+
+#EXTINF:-1,Gulli Girl
+http://92.50.244.214:8005/test165
+
+#EXTINF:-1,ТНТ 4
+http://92.50.244.214:8005/test166
+
+#EXTINF:-1,Bridge TV
+http://92.50.244.214:8005/test167
+
+#EXTINF:-1,Bridge TV Русский хит
+http://92.50.244.214:8005/test168
+
+#EXTINF:-1,Мир 24
+http://92.50.244.214:8005/test169
+
+#EXTINF:-1,Первый МЕТЕО
+http://92.50.244.214:8005/test170
+
+#EXTINF:-1,Санкт-Петербург
+http://92.50.244.214:8005/test171
+
+#EXTINF:-1,2x2
+http://92.50.244.214:8005/test172
+
+#EXTINF:-1,Москва-24
+http://92.50.244.214:8005/test173
+
+#EXTINF:-1,Наше ТВ
+http://92.50.244.214:8005/test174
+
+#EXTINF:-1,Просвещение
+http://92.50.244.214:8005/test175
+
+#EXTINF:-1,Совершенно секретно
+http://92.50.244.214:8005/test176
+
+#EXTINF:-1,Tiji
+http://92.50.244.214:8005/test177
+
+##########################################################################
+
+#EXTINF:-1,Матч! Футбол-1
+http://92.50.244.214:8008/test801
+
+#EXTINF:-1,Матч! Футбол-2
+http://92.50.244.214:8008/test802
+
+#EXTINF:-1,Матч! Футбол-3
+http://92.50.244.214:8008/test803
+
+#EXTINF:-1,Матч! Боец
+http://92.50.244.214:8008/test804
+
+#EXTINF:-1,Матч! Арена
+http://92.50.244.214:8008/test805
+
+#EXTINF:-1,Матч! Спорт
+http://92.50.244.214:8008/test806
+
+#EXTINF:-1,НТВ +2 часа
+http://92.50.244.214:8008/test807
+
+#EXTINF:-1,СТС +4 часа
+http://92.50.244.214:8008/test808
+
+#EXTINF:-1,Slow
+http://92.50.244.214:8008/test809
+
+#EXTINF:-1,Animal Planet HD
+http://92.50.244.214:8008/test810
+
+#EXTINF:-1,Cartoon Network
+http://92.50.244.214:8008/test811
+
+#EXTINF:-1,A Premium HD
+http://92.50.244.214:8008/test812
+
+#EXTINF:-1,A1
+http://92.50.244.214:8008/test813
+
+#EXTINF:-1,КХЛ ТВ
+http://92.50.244.214:8008/test814
+
+#EXTINF:-1,RTG TV
+http://92.50.244.214:8008/test815
+
+#EXTINF:-1,Bridge TV
+http://92.50.244.214:8008/test816
+
+#EXTINF:-1,Матч! Игра
+http://92.50.244.214:8008/test817
+
+#EXTINF:-1,Русская ночь
+http://92.50.244.214:8008/test818
+
+#EXTINF:-1,СТС +2 часа
+http://92.50.244.214:8008/test819
+
+#EXTINF:-1,Домашний +2 часа
+http://92.50.244.214:8008/test820
+
+#EXTINF:-1,Удмуртия
+http://92.50.244.214:8008/test821
+
+#EXTINF:-1,СТС HD
+http://92.50.244.214:8008/test822
+
+#EXTINF:-1,Москва 24
+http://92.50.244.214:8008/test823
+
+#EXTINF:-1,Русская комедия
+http://92.50.244.214:8008/test824
+
+#EXTINF:-1,Mezzo Live HD
+http://92.50.244.214:8008/test825
+
+#######################################################################
+
+#EXTINF:-1,Первый канал HD
+http://92.50.244.214:8009/test92
+
+#EXTINF:-1,Россия HD
+http://92.50.244.214:8009/test901
+
+#EXTINF:-1,Майдан
+http://92.50.244.214:8009/test906
+
+#EXTINF:-1,Первый обл Чечябинск
+http://92.50.244.214:8009/test907
+
+#EXTINF:-1,Успех
+http://92.50.244.214:8009/test908
+
+#EXTINF:-1,Рен ТВ + 2 часа
+http://92.50.244.214:8009/test909
+
+#EXTINF:-1,5 Канал + 2 часа
+http://92.50.244.214:8009/test910
+
+#EXTINF:-1,Охота и рыбалка
+http://92.50.244.214:8009/test913
+
+#EXTINF:-1,Discovery Science Channel
+http://92.50.244.214:8009/test914
+
+#EXTINF:-1,Шант TV
+http://92.50.244.214:8009/test915
+
+#EXTINF:-1,Food Network Russia
+http://92.50.244.214:8009/test916
+
+#EXTINF:-1,Fine Living
+http://92.50.244.214:8009/test920
+
+#EXTINF:-1,Discovery Channel
+http://92.50.244.214:8009/test921
+
+#EXTINF:-1,Animal Planet
+http://92.50.244.214:8009/test922
+
+#EXTINF:-1,TLC
+http://92.50.244.214:8009/test923
+
+#EXTINF:-1,Investigation Discovery
+http://92.50.244.214:8009/test924
+
+#EXTINF:-1,Пятница!
+http://92.50.244.214:8009/test925
+
+#EXTINF:-1,Спас
+http://92.50.244.214:8009/test926
+
+#EXTINF:-1,ТНВ Татарстан
+http://92.50.244.214:8009/test927
+
+#EXTINF:-1,ЧЕ!
+http://92.50.244.214:8009/test928
+
+#EXTINF:-1,Дамский клуб
+http://92.50.244.214:8009/test929
+
+#######################################################################
+
+#EXTINF:-1,FOX
+http://92.50.244.214:8010/test401
+
+#EXTINF:-1,TV 1000 Comedy HD
+http://92.50.244.214:8010/test402
+
+#EXTINF:-1,TV 1000 Megahit HD
+http://92.50.244.214:8010/test403
+
+#EXTINF:-1,TV 1000 Premium HD
+http://92.50.244.214:8010/test404
+
+#EXTINF:-1,Viasat History HD
+http://92.50.244.214:8010/test405
+
+#EXTINF:-1,Mezzo Live HD
+http://92.50.244.214:8010/test406
+
+#EXTINF:-1,Eurosport 2 HD
+http://92.50.244.214:8010/test407
+
+#EXTINF:-1,Hollywood HD
+http://92.50.244.214:8010/test408
+
+#######################################################################
+
+#EXTINF:-1 tvg-name="Первый_канал",Первый
+http://iptv1.sampo.ru/pervii
+#EXTINF:-1 tvg-name="Россия_1",Россия 1
+http://iptv1.sampo.ru/rossiya1
+#EXTINF:-1 tvg-name="Матч_ТВ",Матч ТВ
+http://iptv1.sampo.ru/matchtv
+#EXTINF:-1 tvg-name="НТВ",НТВ
+http://iptv1.sampo.ru/ntv
+#EXTINF:-1 tvg-name="5 канал",5 канал
+http://iptv1.sampo.ru/5kanal
+#EXTINF:-1 tvg-name="Россия_Культура",Россия К
+http://iptv1.sampo.ru/rossiyak
+#EXTINF:-1 tvg-name="Россия_24",Россия 24
+http://iptv1.sampo.ru/rossiya24
+#EXTINF:-1 tvg-name="Карусель",Карусель
+http://iptv1.sampo.ru/karusel
+#EXTINF:-1 tvg-name="ОТР",Общественное телевидение России
+http://iptv1.sampo.ru/otr
+#EXTINF:-1 tvg-name="ТВЦ",ТВЦ
+http://iptv1.sampo.ru/tvc
+#EXTINF:-1 tvg-name="РенТВ",РенТВ
+http://iptv1.sampo.ru/rentv
+#EXTINF:-1 tvg-name="Спас",Спас
+http://iptv1.sampo.ru/spas
+#EXTINF:-1 tvg-name="СТС",СТС
+http://iptv1.sampo.ru/sts
+#EXTINF:-1 tvg-name="Домашний",Домашний
+http://iptv1.sampo.ru/domashnii
+#EXTINF:-1 tvg-name="ТВ3",ТВ3
+http://iptv1.sampo.ru/tv3
+#EXTINF:-1 tvg-name="Пятница",Пятница
+http://iptv1.sampo.ru/pyatnica
+#EXTINF:-1 tvg-name="Звезда",Звезда
+http://iptv1.sampo.ru/zvezda
+#EXTINF:-1 tvg-name="Мир",Мир
+http://iptv1.sampo.ru/mir
+#EXTINF:-1 tvg-name="ТНТ",ТНТ
+http://iptv1.sampo.ru/tnt_ptz
+#EXTINF:-1 tvg-name="МузТВ",МузТВ
+http://iptv1.sampo.ru/muztv
+#EXTINF:-1 tvg-name="Ника_Плюс",Ника Плюс
+http://iptv1.sampo.ru/nikaplus
+#EXTINF:-1 tvg-name="ТНТ_Москва",ТНТ Москва
+http://iptv1.sampo.ru/tnt
+#EXTINF:-1 tvg-name="Disney_Channel",Disney
+http://iptv1.sampo.ru/disney
+#EXTINF:-1 tvg-name="ЧЕ",ЧЕ
+http://iptv1.sampo.ru/che
+#EXTINF:-1 tvg-name="Сампо_ТВ_360",Сампо ТВ 360
+http://iptv1.sampo.ru/sampo360
+
+#######################################################################
+
+#EXTINF:0,Ultra HD Cinema 4K UHD
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULTRAHDCINEMA_HLSUHD.m3u8
+
+#EXTINF:0,Eurosport 4K UHD
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_EUROSPORT4K_HLSUHD.m3u8
+
+#######################################################################

@@ -1,0 +1,1045 @@
+#EXTM3U url-autor="FREE IPTV M3U - IPTV LINKS - M3U PLAYLIST https://hdbox.ws/"
+#EXTINF:0,1. AZ: AZTV
+http://159.69.66.114:8080/aztv/mpegts
+#EXTINF:0,2. AZ: İdman Azerbaycan
+http://159.69.66.114:8080/idmanaz/mpegts
+#EXTINF:0,3. AZ:  Medeniyyet TV
+http://159.69.66.114:8080/medeniyyet/mpegts
+#EXTINF:0,4. AZ: İctimai TV
+http://159.69.66.114:8080/ictimaitv/mpegts
+#EXTINF:0,5. AZ: Azad Azerbaycan
+http://159.69.66.114:8080/azadazerbaycan/mpegts
+#EXTINF:0,6. AZ: Xezer TV
+http://159.69.66.114:8080/xezertv/mpegts
+#EXTINF:0,7. AZ: Lider TV
+http://159.69.66.114:8080/lidertv/mpegts
+#EXTINF:0,8. AZ: Space TV
+http://159.69.66.114:8080/spacetv/mpegts
+#EXTINF:0,9. AZ: CBC
+http://159.69.66.114:8080/cbc/mpegts
+#EXTINF:0,10. AZ: CBC Sport HD
+http://159.69.66.114:8080/cbcsporthd/mpegts
+#EXTINF:0,11. AZ: ARB TV
+http://159.69.66.114:8080/arb/mpegts
+#EXTINF:0,12. AZ: ARB 24
+http://159.69.66.114:8080/arb24hd/mpegts
+#EXTINF:0,13. AZ: ARB Gunesh
+http://159.69.66.114:8080/arbgunesh/mpegts
+#EXTINF:0,14. AZ: Dunya TV
+http://159.69.66.114:8080/dunyatv/mpegts
+#EXTINF:0,15. AZ: DalgaTV
+http://159.69.66.114:8080/dalgatv/mpegts
+#EXTINF:0,16. AZ: Real TV
+http://159.69.66.114:8080/realtv/mpegts
+#EXTINF:0,17. AZ: MUZTV
+http://159.69.66.114:8080/muztvaz/mpegts
+#EXTINF:0,18. TR: ATV turk
+http://159.69.66.114:8080/atvturk/mpegts
+#EXTINF:0,19. TR: Star TV
+http://159.69.66.114:8080/startv/mpegts
+#EXTINF:0,20. TR: Show TV
+http://159.69.66.114:8080/showtv/mpegts
+#EXTINF:0,21. TR: KanalD
+http://159.69.66.114:8080/kanald/mpegts
+#EXTINF:0,22. TR: TV8
+http://159.69.66.114:8080/tv8/mpegts
+#EXTINF:0,23. TR: TV8 Int
+http://159.69.66.114:8080/tv8int/mpegts
+#EXTINF:0,24. TR: NTV Türkiye
+http://159.69.66.114:8080/ntvturk/mpegts
+#EXTINF:0,25. TR: Kanal 7
+http://159.69.66.114:8080/kanal7/mpegts
+#EXTINF:0,26. TR: TV2
+http://159.69.66.114:8080/tv2/mpegts
+#EXTINF:0,27. TR: TRT 1
+http://159.69.66.114:8080/trt1/mpegts
+#EXTINF:0,28. TR: TRT Haber
+http://159.69.66.114:8080/trthaber/mpegts
+#EXTINF:0,29. TR: TRT AVAZ
+http://159.69.66.114:8080/trtavaz/mpegts
+#EXTINF:0,30. TR: TRT Türk
+http://159.69.66.114:8080/trtturk/mpegts
+#EXTINF:0,31. TR: TRT Çocuk
+http://159.69.66.114:8080/trtcocuk/mpegts
+#EXTINF:0,32. TR: Minika Çocuk
+http://159.69.66.114:8080/minikacocuk/mpegts
+#EXTINF:0,33. TR: Minika Go
+http://159.69.66.114:8080/minikago/mpegts
+#EXTINF:0,34. TR: Cartoon Network TR
+http://159.69.66.114:8080/cartoonnetworkturk/mpegts
+#EXTINF:0,35. TR: Disney Channel Türkiye
+http://159.69.66.114:8080/disneychannelturk/mpegts
+#EXTINF:0,37. TR: TLC Turk
+http://159.69.66.114:8080/tlcturk/mpegts
+#EXTINF:0,38. TR: TRT Belgesel
+http://159.69.66.114:8080/trtbelgesel/mpegts
+#EXTINF:0,39. TR: Power Türk HD
+http://159.69.66.114:8080/powerturk/mpegts
+#EXTINF:0,41. TR: TMB TV
+http://159.69.66.114:8080/tmb/mpegts
+#EXTINF:0,43. TR: Akilli TV
+http://159.69.66.114:8080/akillitv/mpegts
+#EXTINF:0,44. TR: 360
+http://159.69.66.114:8080/360TV/mpegts
+#EXTINF:0,45. TR: A Spor
+http://159.69.66.114:8080/aspor/mpegts
+#EXTINF:0,46. TR: FB TV
+http://159.69.66.114:8080/fb/mpegts
+#EXTINF:0,47. TR: CNN TURK
+http://159.69.66.114:8080/cnnturk/mpegts
+#EXTINF:0,48. TR: A Haber
+http://159.69.66.114:8080/ahaber/mpegts
+#EXTINF:0,49. TR: HabarTurk
+http://159.69.66.114:8080/haberturk/mpegts
+#EXTINF:0,50. TR: Bloomberg tr
+http://159.69.66.114:8080/bloomberg/mpegts
+#EXTINF:0,51. RU: Первый канал
+http://159.69.66.114:8080/perviy/mpegts
+#EXTINF:0,52. RU: Россия 1
+http://159.69.66.114:8080/rossiya1/mpegts
+#EXTINF:0,53. RU: Россия 24
+http://159.69.66.114:8080/rosiyya24/mpegts
+#EXTINF:0,54. RU: Россия Культура
+http://159.69.66.114:8080/rossiakultura/mpegts
+#EXTINF:0,55. RU: РТР Планета
+http://159.69.66.114:8080/rtrplaneta/mpegts
+#EXTINF:0,56. RU: Время
+http://159.69.66.114:8080/vremya/mpegts
+#EXTINF:0,57. RU: НТВ
+http://159.69.66.114:8080/ntvplus/mpegts
+#EXTINF:0,58. RU: ТНТ
+http://159.69.66.114:8080/tnt/mpegts
+#EXTINF:0,59. RU: ТНТ4
+http://159.69.66.114:8080/tntcomedy/mpegts
+#EXTINF:0,60. RU: СТС
+http://159.69.66.114:8080/sts/mpegts
+#EXTINF:0,61. RU: СТС Love
+http://159.69.66.114:8080/stslove/mpegts
+#EXTINF:0,62. RU: РЕН ТВ
+http://159.69.66.114:8080/rentv/mpegts
+#EXTINF:0,63. RU: Пятница
+http://159.69.66.114:8080/pyatnicha/mpegts
+#EXTINF:0,64. RU: ТВ-3
+http://159.69.66.114:8080/tv3/mpegts
+#EXTINF:0,65. RU: Че
+http://159.69.66.114:8080/ce/mpegts
+#EXTINF:0,66. RU: ТВ Центр
+http://159.69.66.114:8080/tvc/mpegts
+#EXTINF:0,67. RU: 5 канал
+http://159.69.66.114:8080/5kanal/mpegts
+#EXTINF:0,68. RU: Мир ТВ
+http://159.69.66.114:8080/mir/mpegts
+#EXTINF:0,69. RU: Мир 24
+http://159.69.66.114:8080/mir24/mpegts
+#EXTINF:0,70. RU: Кино ТВ
+http://159.69.66.114:8080/kinotv/mpegts
+#EXTINF:0,71. RU: Киномикс
+http://159.69.66.114:8080/kinomiks/mpegts
+#EXTINF:0,72. RU: Кинохит
+http://159.69.66.114:8080/kinoxit/mpegts
+#EXTINF:0,73. RU: Киносемья
+http://159.69.66.114:8080/kinosemya/mpegts
+#EXTINF:0,74. RU: Киносвидание
+http://159.69.66.114:8080/kinosvidanie/mpegts
+#EXTINF:0,75. RU: Кинокомедия
+http://159.69.66.114:8080/kinokomedia/mpegts
+#EXTINF:0,76. RU: Киносерия
+http://159.69.66.114:8080/kinoseria/mpegts
+#EXTINF:0,77. RU: Мужское кино
+http://159.69.66.114:8080/mujskoekino/mpegts
+#EXTINF:0,78. RU: Наше Новое Кино
+http://159.69.66.114:8080/nashenovoekino/mpegts
+#EXTINF:0,79. RU: Родное кино
+http://159.69.66.114:8080/rodnoekino/mpegts
+#EXTINF:0,80. RU: Любимое кино
+http://159.69.66.114:8080/lubimoekino/mpegts
+#EXTINF:0,81. RU: Телеканал Комедия
+http://159.69.66.114:8080/telekanalkomedia/mpegts
+#EXTINF:0,82. RU: Paramount Comedy
+http://159.69.66.114:8080/paramauntcomedy/mpegts
+#EXTINF:0,83. RU: TV1000
+http://159.69.66.114:8080/tv1000/mpegts
+#EXTINF:0,84. RU: TV1000 Action
+http://159.69.66.114:8080/tv1000action/mpegts
+#EXTINF:0,85. RU: TV1000 Русское кино
+http://159.69.66.114:8080/tv1000ruskoekino/mpegts
+#EXTINF:0,86. RU: Amedia 1
+http://159.69.66.114:8080/amedia1/mpegts
+#EXTINF:0,87. RU: Amedia 2
+http://159.69.66.114:8080/amedia2/mpegts
+#EXTINF:0,88. RU: Amedia Premium
+http://159.69.66.114:8080/amedipremium/mpegts
+#EXTINF:0,89. RU: Amedia Hit
+http://159.69.66.114:8080/amediahit/mpegts
+#EXTINF:0,90. RU: Дом кино
+http://159.69.66.114:8080/domkino/mpegts
+#EXTINF:0,91. RU: Еврокино
+http://159.69.66.114:8080/eurokino/mpegts
+#EXTINF:0,92. RU: Иллюзион+
+http://159.69.66.114:8080/illuzion/mpegts
+#EXTINF:0,93. RU: Русский Иллюзион
+http://159.69.66.114:8080/russkiyiluzion/mpegts
+#EXTINF:0,94. RU: Русский Бестселлер
+http://159.69.66.114:8080/russkiybetseller/mpegts
+#EXTINF:0,95. RU: НСТВ
+http://159.69.66.114:8080/nst/mpegts
+#EXTINF:0,96. RU: Звезда
+http://159.69.66.114:8080/zvezda/mpegts
+#EXTINF:0,97. RU: Хорошее Кино
+http://159.69.66.114:8080/xoroshoekino/mpegts
+#EXTINF:0,98. RU: ShotTV
+http://159.69.66.114:8080/egoisttv/mpegts
+#EXTINF:0,99. RU: Индийское кино
+http://159.69.66.114:8080/indiskoekino/mpegts
+#EXTINF:0,100. RU: Доктор
+http://159.69.66.114:8080/galaxytv/mpegts
+#EXTINF:0,101. RU: FOX
+http://159.69.66.114:8080/foxrussia/mpegts
+#EXTINF:0,102. RU: Fox Life
+http://159.69.66.114:8080/foxlife/mpegts
+#EXTINF:0,103. RU: CBS Reality
+http://159.69.66.114:8080/cbsreality/mpegts
+#EXTINF:0,104. RU: Cinema
+http://159.69.66.114:8080/parkrasvleceniy/mpegts
+#EXTINF:0,105. RU: Sony SCI-FI
+http://159.69.66.114:8080/sonyscifi/mpegts
+#EXTINF:0,106. RU: Sony Turbo
+http://159.69.66.114:8080/sonyturbo/mpegts
+#EXTINF:0,107. RU: TV XXI
+http://159.69.66.114:8080/tv21/mpegts
+#EXTINF:0,108. RU: Мир сериала
+http://159.69.66.114:8080/mirseriala/mpegts
+#EXTINF:0,109. RU: БОБЁР ТВ
+http://159.69.66.114:8080/bobertv/mpegts
+#EXTINF:0,110. RU: Discovery Channel
+http://159.69.66.114:8080/discoverychannel/mpegts
+#EXTINF:0,111. RU: Discovery Science
+http://159.69.66.114:8080/discoveryscience/mpegts
+#EXTINF:0,112. RU: Discovery Investigation
+http://159.69.66.114:8080/idextra/mpegts
+#EXTINF:0,113. RU: Discovery Turbo Extra
+http://159.69.66.114:8080/dtx/mpegts
+#EXTINF:0,114. RU: National Geographic
+http://159.69.66.114:8080/nationalgeographic/mpegts
+#EXTINF:0,115. RU: Animal Planet
+http://159.69.66.114:8080/animalplanet/mpegts
+#EXTINF:0,116. RU: Travel Channel
+http://159.69.66.114:8080/travelchannel/mpegts
+#EXTINF:0,117. RU: TLC
+http://159.69.66.114:8080/tlc/mpegts
+#EXTINF:0,118. RU: Da Vinci Learning
+http://159.69.66.114:8080/davinchilearning/mpegts
+#EXTINF:0,119. RU: 24 Техно
+http://159.69.66.114:8080/24texno/mpegts
+#EXTINF:0,120. RU: History Channel
+http://159.69.66.114:8080/history/mpegts
+#EXTINF:0,121. RU: История
+http://159.69.66.114:8080/istoriya/mpegts
+#EXTINF:0,122. RU: Моя Планета
+http://159.69.66.114:8080/moyaplaneta/mpegts
+#EXTINF:0,123. RU: 24 Док
+http://159.69.66.114:8080/24dok/mpegts
+#EXTINF:0,124. RU: Наука 2.0
+http://159.69.66.114:8080/nauka/mpegts
+#EXTINF:0,125. RU: Кто есть кто
+http://159.69.66.114:8080/ktoestkto/mpegts
+#EXTINF:0,126. RU: Совершенно секретно
+http://159.69.66.114:8080/sovershennosekretno/mpegts
+#EXTINF:0,127. RU: Домашний
+http://159.69.66.114:8080/domashniy/mpegts
+#EXTINF:0,128. RU: Живая Планета
+http://159.69.66.114:8080/jivayaplaneta/mpegts
+#EXTINF:0,129. RU: Охота и рыбалка
+http://159.69.66.114:8080/oxotoiribalka/mpegts
+#EXTINF:0,130. RU: Домашние животные
+http://159.69.66.114:8080/domashniejivotnie/mpegts
+#EXTINF:0,131. RU: Загородная жизнь
+http://159.69.66.114:8080/zaqorodnayajizn/mpegts
+#EXTINF:0,132. RU: Живи
+http://159.69.66.114:8080/jivi/mpegts
+#EXTINF:0,133. RU: Зоопарк
+http://159.69.66.114:8080/zoopark/mpegts
+#EXTINF:0,134. RU: Viasat History
+http://159.69.66.114:8080/viasathistory/mpegts
+#EXTINF:0,135. RU: Viasat Nature
+http://159.69.66.114:8080/viasatnature/mpegts
+#EXTINF:0,136. RU: Ностальгия
+http://159.69.66.114:8080/nostalgiya/mpegts
+#EXTINF:0,137. RU: 365 дней
+http://159.69.66.114:8080/365dney/mpegts
+#EXTINF:0,138. RU: Viasat Explorer
+http://159.69.66.114:8080/viasatexplorer/mpegts
+#EXTINF:0,139. RU: Авто плюс
+http://159.69.66.114:8080/avtoplyus/mpegts
+#EXTINF:0,140. RU: Авто 24
+http://159.69.66.114:8080/avto24/mpegts
+#EXTINF:0,141. RU: Матч! ТВ
+http://159.69.66.114:8080/matchtv/mpegts
+#EXTINF:0,142. RU: Матч! Боец
+http://159.69.66.114:8080/matchboets/mpegts
+#EXTINF:0,143. RU: Матч! Арена
+http://159.69.66.114:8080/matcharena/mpegts
+#EXTINF:0,144. RU: Матч! Игра
+http://159.69.66.114:8080/matchiqra/mpegts
+#EXTINF:0,145. RU: Матч! Страна
+http://159.69.66.114:8080/nashsport/mpegts
+#EXTINF:0,146. RU: Матч! Планета
+http://159.69.66.114:8080/matchplaneta/mpegts
+#EXTINF:0,147. RU: Матч! Футбол 1
+http://159.69.66.114:8080/matchfutbol1/mpegts
+#EXTINF:0,148. RU: Матч! Футбол 2
+http://159.69.66.114:8080/matchfutbol2/mpegts
+#EXTINF:0,149. RU: Матч! Футбол3
+http://159.69.66.114:8080/matchfutbol3/mpegts
+#EXTINF:0,150. RU: Матч! Премьер
+http://159.69.66.114:8080/nashfutbol/mpegts
+#EXTINF:0,151. RU: Футбол
+http://159.69.66.114:8080/futbol/mpegts
+#EXTINF:0,152. RU: Setanta Sports
+http://159.69.66.114:8080/setantasports1/mpegts
+#EXTINF:0,153. RU: Extreme Sports
+http://159.69.66.114:8080/extremesport/mpegts
+#EXTINF:0,154. RU: Бокс ТВ
+http://159.69.66.114:8080/bokstv/mpegts
+#EXTINF:0,155. RU: КХЛ ТВ
+http://159.69.66.114:8080/kxltv/mpegts
+#EXTINF:0,156. RU: Eurosport1
+http://159.69.66.114:8080/eurosport1/mpegts
+#EXTINF:0,157. RU: Eurosport 2
+http://159.69.66.114:8080/eurosport2/mpegts
+#EXTINF:0,158. RU: Viasat Sport
+http://159.69.66.114:8080/viasatsport/mpegts
+#EXTINF:0,159. RU: Nickelodeon
+http://159.69.66.114:8080/nickelodeon/mpegts
+#EXTINF:0,160. RU: Nickelodeon Junior
+http://159.69.66.114:8080/nickelodeonjunior/mpegts
+#EXTINF:0,161. RU: Cartoon Network russian
+http://159.69.66.114:8080/cartoonnetworkrus/mpegts
+#EXTINF:0,162. RU: Disney Channel
+http://159.69.66.114:8080/disneyru/mpegts
+#EXTINF:0,163. RU: Детский
+http://159.69.66.114:8080/detskiy/mpegts
+#EXTINF:0,164. RU: Детский Мир
+http://159.69.66.114:8080/detskiymir/mpegts
+#EXTINF:0,165. RU: Мама
+http://159.69.66.114:8080/mama/mpegts
+#EXTINF:0,166. RU: 2x2
+http://159.69.66.114:8080/2x2/mpegts
+#EXTINF:0,167. RU: Карусель
+http://159.69.66.114:8080/karusel/mpegts
+#EXTINF:0,168. RU: Мульт
+http://159.69.66.114:8080/mult/mpegts
+#EXTINF:0,169. RU: TIJI
+http://159.69.66.114:8080/tiji/mpegts
+#EXTINF:0,170. RU: Jim Jam
+http://159.69.66.114:8080/jimjam/mpegts
+#EXTINF:0,171. RU: Ani ТВ
+http://159.69.66.114:8080/anitv/mpegts
+#EXTINF:0,172. RU: Gulli Girl
+http://159.69.66.114:8080/gulligirl/mpegts
+#EXTINF:0,173. RU: Мультимания
+http://159.69.66.114:8080/multmania/mpegts
+#EXTINF:0,174. RU: Жара
+http://159.69.66.114:8080/jaratv/mpegts
+#EXTINF:0,175. RU: RU TV
+http://159.69.66.114:8080/rutv/mpegts
+#EXTINF:0,176. RU: Europa Plus TV
+http://159.69.66.114:8080/europaplus/mpegts
+#EXTINF:0,177. RU: Музыка Первого
+http://159.69.66.114:8080/muzika1/mpegts
+#EXTINF:0,178. RU: Муз ТВ
+http://159.69.66.114:8080/muztv/mpegts
+#EXTINF:0,179. RU: Music Box RU
+http://159.69.66.114:8080/musicboxru/mpegts
+#EXTINF:0,180. RU: Ля минор
+http://159.69.66.114:8080/lyaminor/mpegts
+#EXTINF:0,181. RU: Ю-ТВ
+http://159.69.66.114:8080/yutv/mpegts
+#EXTINF:0,182. RU: MTV Russia
+http://159.69.66.114:8080/mtvrussia/mpegts
+#EXTINF:0,183. RU: MTV Hits
+http://159.69.66.114:8080/mtvhit/mpegts
+#EXTINF:0,184. RU: MTV Dance
+http://159.69.66.114:8080/mtvdance/mpegts
+#EXTINF:0,185. RU: MCM Top
+http://159.69.66.114:8080/mcmtop/mpegts
+#EXTINF:0,186. RU: Bridge TV
+http://159.69.66.114:8080/bridgetv/mpegts
+#EXTINF:0,187. RU: Bridge TV Russian Song
+http://159.69.66.114:8080/bridgetvrus/mpegts
+#EXTINF:0,188. RU: Bridge TV Dance
+http://159.69.66.114:8080/dangetv/mpegts
+#EXTINF:0,189. RU: Шансон ТВ
+http://159.69.66.114:8080/shanson/mpegts
+#EXTINF:0,190. RU: VH1 Europe
+http://159.69.66.114:8080/vh1europe/mpegts
+#EXTINF:0,191. RU: VH1 Classic
+http://159.69.66.114:8080/vh1classic/mpegts
+#EXTINF:0,192. RU: AMC Russia
+http://159.69.66.114:8080/amcrussia/mpegts
+#EXTINF:0,193. RU: Mezzo
+http://159.69.66.114:8080/mezzo/mpegts
+#EXTINF:0,194. RU: Кухня ТВ
+http://159.69.66.114:8080/kuxnyatv/mpegts
+#EXTINF:0,195. RU: Телекафе
+http://159.69.66.114:8080/telekafe/mpegts
+#EXTINF:0,196. RU: Food Network Russia
+http://159.69.66.114:8080/foodretworkrussia/mpegts
+#EXTINF:0,197. RU: Fashion TV
+http://159.69.66.114:8080/fashion/mpegts
+#EXTINF:0,198. RU: World Fashion
+http://159.69.66.114:8080/worldfashion/mpegts
+#EXTINF:0,199. RU: EuroNews (russian)
+http://159.69.66.114:8080/euronewsrus/mpegts
+#EXTINF:0,200. RU: РБК
+http://159.69.66.114:8080/rbk/mpegts
+#EXTINF:0,201. RU: RTG
+http://159.69.66.114:8080/rtg/mpegts
+#EXTINF:0,202. RU: Первый образовательный
+http://159.69.66.114:8080/perviyobrazovatelny/mpegts
+#EXTINF:0,204. UK: ITV1
+http://159.69.66.114:8080/itv1/mpegts
+#EXTINF:0,205. UK: ITV2
+http://159.69.66.114:8080/itv2/mpegts
+#EXTINF:0,206. UK: ITV3
+http://159.69.66.114:8080/itv3/mpegts
+#EXTINF:0,207. UK: ITV4
+http://159.69.66.114:8080/itv4/mpegts
+#EXTINF:0,208. UK: ITV be
+http://159.69.66.114:8080/itvbe/mpegts
+#EXTINF:0,209. UK: ITV ENCORE
+http://159.69.66.114:8080/itvencore/mpegts
+#EXTINF:0,211. UK: BBC ONE
+http://159.69.66.114:8080/bbcone/mpegts
+#EXTINF:0,212. UK: BBC TWO HD
+http://159.69.66.114:8080/bbctwohd/mpegts
+#EXTINF:0,213. UK: BBC 4 HD
+http://159.69.66.114:8080/ukbbc4hd/mpegts
+#EXTINF:0,214. UK: BBC World News
+http://159.69.66.114:8080/bbcworld/mpegts
+#EXTINF:0,215. UK: BBC Parliament
+http://159.69.66.114:8080/bbcparlament/mpegts
+#EXTINF:0,216. UK: BBC ALBA
+http://159.69.66.114:8080/bbcalba/mpegts
+#EXTINF:0,217. UK: CBBC
+http://159.69.66.114:8080/cbbc/mpegts
+#EXTINF:0,218. UK: Cbeebies
+http://159.69.66.114:8080/ukcbeebies/mpegts
+#EXTINF:0,219. UK: SKY One
+http://159.69.66.114:8080/skyone/mpegts
+#EXTINF:0,220. UK: SKY Two
+http://159.69.66.114:8080/skytwo/mpegts
+#EXTINF:0,221. UK: SKY News
+http://159.69.66.114:8080/skynews/mpegts
+#EXTINF:0,222. UK: SKY Sport News
+http://159.69.66.114:8080/skysportnewshd/mpegts
+#EXTINF:0,223. UK: SKY Arts
+http://159.69.66.114:8080/skyarts/mpegts
+#EXTINF:0,224. UK: SKY Living +1
+http://159.69.66.114:8080/skyliving1/mpegts
+#EXTINF:0,225. UK: Sky Movies Action
+http://159.69.66.114:8080/skyaction/mpegts
+#EXTINF:0,226. UK: SKY Movies Premier
+http://159.69.66.114:8080/skypremier/mpegts
+#EXTINF:0,227. UK: SKY Movies Family
+http://159.69.66.114:8080/skyfamily/mpegts
+#EXTINF:0,228. UK: SKY Movies Thriller
+http://159.69.66.114:8080/skythriller/mpegts
+#EXTINF:0,229. UK: Sky Movies Drama
+http://159.69.66.114:8080/skydrama/mpegts
+#EXTINF:0,230. UK: Sky Movies Modern
+http://159.69.66.114:8080/skymodern/mpegts
+#EXTINF:0,231. UK: SKY Cinema Si-Fi & Horror HD
+http://159.69.66.114:8080/skycinemasifi/mpegts
+#EXTINF:0,232. UK: SKY Movies Select HD
+http://159.69.66.114:8080/skyselecthd/mpegts
+#EXTINF:0,233. UK: SKY Movies Greats
+http://159.69.66.114:8080/skygreats/mpegts
+#EXTINF:0,234. UK: SKY Movies Comedy
+http://159.69.66.114:8080/skycomedy/mpegts
+#EXTINF:0,235. UK: SKY Movies Showcase
+http://159.69.66.114:8080/skyshowcase/mpegts
+#EXTINF:0,236. UK: Sky Movies Disney
+http://159.69.66.114:8080/skydisney/mpegts
+#EXTINF:0,237. UK: SKY Atlantic 1
+http://159.69.66.114:8080/skyatlantic1/mpegts
+#EXTINF:0,238. UK: SKY Sports MainEvent
+http://159.69.66.114:8080/ukskysportmainevent/mpegts
+#EXTINF:0,239. UK: SKY Sports MainEvent HD
+http://159.69.66.114:8080/ukskysportsmaineventhd/mpegts
+#EXTINF:0,240. UK: SKY Sports MainEvent (backup)
+http://159.69.66.114:8080/ukskysportmainevent2/mpegts
+#EXTINF:0,241. UK: SKY Sports MainEvent HD (backup)
+http://159.69.66.114:8080/ukskysportmaineventhd2/mpegts
+#EXTINF:0,242. UK: SKY Sports Action
+http://159.69.66.114:8080/ukskysportsaction/mpegts
+#EXTINF:0,243. UK: SKY Sports Action HD
+http://159.69.66.114:8080/ukskysportsactionhd/mpegts
+#EXTINF:0,244. UK: SKY Sports Action (backup)
+http://159.69.66.114:8080/ukskysportsaction2/mpegts
+#EXTINF:0,245. UK: SKY Sports Action HD (backup)
+http://159.69.66.114:8080/ukskysportsactionhd2/mpegts
+#EXTINF:0,246. UK: SKY Sports Arena
+http://159.69.66.114:8080/skysportsarena/mpegts
+#EXTINF:0,247. UK: SKY Sports Arena HD
+http://159.69.66.114:8080/skysportsarenahd/mpegts
+#EXTINF:0,248. UK: SKY Sports Arena HD (backup)
+http://159.69.66.114:8080/skysportsarenahd2/mpegts
+#EXTINF:0,249. UK: SKY Sports Arena (backup)
+http://159.69.66.114:8080/skysportsareana2/mpegts
+#EXTINF:0,250. UK: SKY Sports Golf
+http://159.69.66.114:8080/skysportsgolf/mpegts
+#EXTINF:0,251. UK: SKY Sports Golf HD
+http://159.69.66.114:8080/skysportsgolfhd/mpegts
+#EXTINF:0,252. UK: SKY Sports Golf (backup)
+http://159.69.66.114:8080/skysportsgolf2/mpegts
+#EXTINF:0,253. UK: SKY Sports Golf HD (backup)
+http://159.69.66.114:8080/skysportsgolfhd2/mpegts
+#EXTINF:0,254. UK: SKY Sports PremierLeauge
+http://159.69.66.114:8080/skysports5/mpegts
+#EXTINF:0,255. UK: SKY Sports Football
+http://159.69.66.114:8080/skysports6/mpegts
+#EXTINF:0,256. UK: SKY Sports F1
+http://159.69.66.114:8080/skysportsf1/mpegts
+#EXTINF:0,257. UK: SKY Sports F1 HD
+http://159.69.66.114:8080/skysportsf1hd/mpegts
+#EXTINF:0,258. UK: SKY Sports F1 (backup)
+http://159.69.66.114:8080/skysportsf12/mpegts
+#EXTINF:0,259. UK: SKY Sports F1 HD (backup)
+http://159.69.66.114:8080/skysportsf1hd2/mpegts
+#EXTINF:0,260. UK: SKY Sports Cricket
+http://159.69.66.114:8080/skysportscricket/mpegts
+#EXTINF:0,261. UK: SKY Sports Cricket HD
+http://159.69.66.114:8080/skysportscrickethd/mpegts
+#EXTINF:0,262. UK: SKY Sports Cricket (backup)
+http://159.69.66.114:8080/skysportscricket2/mpegts
+#EXTINF:0,263. UK: SKY Sports Cricket HD (backup)
+http://159.69.66.114:8080/skysportscrickethd2/mpegts
+#EXTINF:0,264. UK: Sky Sports Mix
+http://159.69.66.114:8080/ukskysportsmix/mpegts
+#EXTINF:0,265. UK: Sky Sports The Open
+http://159.69.66.114:8080/ukskysportsopen/mpegts
+#EXTINF:0,266. UK: BT Sport 1 HD
+http://159.69.66.114:8080/btsport1hd/mpegts
+#EXTINF:0,267. UK: BT Sport 2 HD
+http://159.69.66.114:8080/btsport2hd/mpegts
+#EXTINF:0,268. UK: BT Sport 3 HD
+http://159.69.66.114:8080/btsport3hd/mpegts
+#EXTINF:0,269. UK: BT Sport ESPN
+http://159.69.66.114:8080/espn/mpegts
+#EXTINF:0,270. UK: Premier Sport HD
+http://159.69.66.114:8080/premiersporthd/mpegts
+#EXTINF:0,271. UK: Eurosport 1
+http://159.69.66.114:8080/ukeurosport1/mpegts
+#EXTINF:0,272. UK: Eurosport 2
+http://159.69.66.114:8080/ukeurosport2/mpegts
+#EXTINF:0,273. UK: Eir Sports1
+http://159.69.66.114:8080/ukeirsport/mpegts
+#EXTINF:0,274. UK: Eir Sports2
+http://159.69.66.114:8080/ukeirsport2/mpegts
+#EXTINF:0,275. UK: Chelsea TV
+http://159.69.66.114:8080/chealsetv/mpegts
+#EXTINF:0,276. UK: Box hits
+http://159.69.66.114:8080/ukboxhits/mpegts
+#EXTINF:0,277. UK: Boxnation
+http://159.69.66.114:8080/ukboxnations/mpegts
+#EXTINF:0,278. UK: Only Motors
+http://159.69.66.114:8080/onlymotors/mpegts
+#EXTINF:0,279. UK: Manchester United TV
+http://159.69.66.114:8080/manchesterunited/mpegts
+#EXTINF:0,280. UK: ID
+http://159.69.66.114:8080/id/mpegts
+#EXTINF:0,281. UK: Racing UK
+http://159.69.66.114:8080/racinguk/mpegts
+#EXTINF:0,282. UK: At The Races
+http://159.69.66.114:8080/attherace/mpegts
+#EXTINF:0,283. UK: Discovery
+http://159.69.66.114:8080/discovery/mpegts
+#EXTINF:0,284. UK: DiscoveryScience
+http://159.69.66.114:8080/discoveryscienceeng/mpegts
+#EXTINF:0,285. UK: Discovery History
+http://159.69.66.114:8080/discoveryhistory/mpegts
+#EXTINF:0,286. UK: Discovery Turbo
+http://159.69.66.114:8080/ukdiscoveryturbo/mpegts
+#EXTINF:0,287. UK: Discovery Shed
+http://159.69.66.114:8080/ukdiscoveryshed/mpegts
+#EXTINF:0,288. UK: Nat Geo Graphic
+http://159.69.66.114:8080/natgeographic/mpegts
+#EXTINF:0,289. UK: Nat Geo Wild
+http://159.69.66.114:8080/natgeowildeng/mpegts
+#EXTINF:0,290. UK: History
+http://159.69.66.114:8080/historyeng/mpegts
+#EXTINF:0,291. UK: DMax
+http://159.69.66.114:8080/ukdmax/mpegts
+#EXTINF:0,292. UK: TLC
+http://159.69.66.114:8080/uktlc/mpegts
+#EXTINF:0,293. UK: TLC   1
+http://159.69.66.114:8080/uktlc1/mpegts
+#EXTINF:0,294. UK: Animal Planet eng
+http://159.69.66.114:8080/animalplaneteng/mpegts
+#EXTINF:0,295. UK: E4
+http://159.69.66.114:8080/e4/mpegts
+#EXTINF:0,296. UK: SONY TV
+http://159.69.66.114:8080/uksonytv/mpegts
+#EXTINF:0,297. UK: SONY Movies
+http://159.69.66.114:8080/sonymovies/mpegts
+#EXTINF:0,298. UK: Sony Channel 1
+http://159.69.66.114:8080/uksonychannel/mpegts
+#EXTINF:0,299. UK: Sony Max
+http://159.69.66.114:8080/uksonymax/mpegts
+#EXTINF:0,300. UK: PICK
+http://159.69.66.114:8080/ukpick/mpegts
+#EXTINF:0,301. UK: Comedy Central
+http://159.69.66.114:8080/comedycentral/mpegts
+#EXTINF:0,302. UK: Food Network
+http://159.69.66.114:8080/foodnetwork/mpegts
+#EXTINF:0,303. UK: Channel 4
+http://159.69.66.114:8080/channel4/mpegts
+#EXTINF:0,304. UK: Disney Junior
+http://159.69.66.114:8080/disneyjunior/mpegts
+#EXTINF:0,305. UK: More 4
+http://159.69.66.114:8080/more4/mpegts
+#EXTINF:0,306. UK: CNN International
+http://159.69.66.114:8080/cnninternational/mpegts
+#EXTINF:0,307. UK: EuroNews
+http://159.69.66.114:8080/euronewseng/mpegts
+#EXTINF:0,308. UK: FOX News
+http://159.69.66.114:8080/foxnews/mpegts
+#EXTINF:0,309. UK: CNBC
+http://159.69.66.114:8080/cnbc/mpegts
+#EXTINF:0,310. UK: True Movies 1
+http://159.69.66.114:8080/uktruemovie/mpegts
+#EXTINF:0,311. UK: 4Seven
+http://159.69.66.114:8080/uk4seven/mpegts
+#EXTINF:0,312. UK: RTE News Now
+http://159.69.66.114:8080/ukrtenews/mpegts
+#EXTINF:0,313. UK: RTE One
+http://159.69.66.114:8080/ukrteone/mpegts
+#EXTINF:0,314. UK: RTE Two
+http://159.69.66.114:8080/ukrtetwo/mpegts
+#EXTINF:0,315. UK: RTE JUNIOR
+http://159.69.66.114:8080/ukrtejunior/mpegts
+#EXTINF:0,316. UK: Nickelodeon
+http://159.69.66.114:8080/uknickelodeon/mpegts
+#EXTINF:0,317. UK: Nick Jr Two
+http://159.69.66.114:8080/uknickelodeonjr/mpegts
+#EXTINF:0,318. UK: Cartoonito
+http://159.69.66.114:8080/ukcartoonito/mpegts
+#EXTINF:0,319. UK: LFC TV
+http://159.69.66.114:8080/uklfc/mpegts
+#EXTINF:0,320. UK: E!
+http://159.69.66.114:8080/uke!/mpegts
+#EXTINF:0,321. UK: Alibi
+http://159.69.66.114:8080/ukalibi/mpegts
+#EXTINF:0,322. UK: 5USA
+http://159.69.66.114:8080/uk5usa/mpegts
+#EXTINF:0,323. UK: BET
+http://159.69.66.114:8080/ukbet/mpegts
+#EXTINF:0,324. UK: CHANNEL 5
+http://159.69.66.114:8080/ukchannel5/mpegts
+#EXTINF:0,325. UK: KISS UK
+http://159.69.66.114:8080/ukkiss/mpegts
+#EXTINF:0,326. UK: Real Lives
+http://159.69.66.114:8080/ukreallives/mpegts
+#EXTINF:0,327. UK: QUEST
+http://159.69.66.114:8080/ukquest/mpegts
+#EXTINF:0,328. UK: Viceland
+http://159.69.66.114:8080/ukviceland/mpegts
+#EXTINF:0,329. UK: Watch
+http://159.69.66.114:8080/ukwatch/mpegts
+#EXTINF:0,330. UK: TCM
+http://159.69.66.114:8080/uktcm/mpegts
+#EXTINF:0,331. UK: Magic
+http://159.69.66.114:8080/ukmagic/mpegts
+#EXTINF:0,332. UK: H2
+http://159.69.66.114:8080/ukh2/mpegts
+#EXTINF:0,333. UK: Yesterday
+http://159.69.66.114:8080/ukyesterday/mpegts
+#EXTINF:0,334. UK: Living UK
+http://159.69.66.114:8080/ukliving/mpegts
+#EXTINF:0,335. UK: Life time
+http://159.69.66.114:8080/uklifetime/mpegts
+#EXTINF:0,336. UK: Eden
+http://159.69.66.114:8080/ukeden/mpegts
+#EXTINF:0,337. UK: Dave
+http://159.69.66.114:8080/ukdave/mpegts
+#EXTINF:0,338. UK: Tiny POP
+http://159.69.66.114:8080/uktinypop/mpegts
+#EXTINF:0,339. UK: Home & Health
+http://159.69.66.114:8080/ukhomeandhealth/mpegts
+#EXTINF:0,340. UK: CBS reality
+http://159.69.66.114:8080/ukcbsreality/mpegts
+#EXTINF:0,341. UK: CBS Action
+http://159.69.66.114:8080/ukcbsaction/mpegts
+#EXTINF:0,342. UK: CBS Drama
+http://159.69.66.114:8080/ukcbsdrama/mpegts
+#EXTINF:0,343. UK: Movies 4 Men
+http://159.69.66.114:8080/ukmovie4man/mpegts
+#EXTINF:0,344. UK: Boomerang
+http://159.69.66.114:8080/ukboomerang/mpegts
+#EXTINF:0,345. UK: KERRANG
+http://159.69.66.114:8080/ukkerrang/mpegts
+#EXTINF:0,346. UK: TV3
+http://159.69.66.114:8080/uktv3/mpegts
+#EXTINF:0,347. UK: AMC FROM BT
+http://159.69.66.114:8080/ukamcfrombt/mpegts
+#EXTINF:0,348. UK: Amc
+http://159.69.66.114:8080/ukamc/mpegts
+#EXTINF:0,349. UK: Channel AKA
+http://159.69.66.114:8080/ukchannelakka/mpegts
+#EXTINF:0,350. UK: S4C
+http://159.69.66.114:8080/uks4c/mpegts
+#EXTINF:0,351. UK: Starz TV
+http://159.69.66.114:8080/ukstraz/mpegts
+#EXTINF:0,353. UK: True Crime
+http://159.69.66.114:8080/uktruecrime/mpegts
+#EXTINF:0,354. UK: Zee Cinema
+http://159.69.66.114:8080/ukzeecinema/mpegts
+#EXTINF:0,355. UK: MTV
+http://159.69.66.114:8080/mtvuk/mpegts
+#EXTINF:0,356. UK: MTV LIVE HD
+http://159.69.66.114:8080/ukmtvlivehd/mpegts
+#EXTINF:0,357. UK: 4Music
+http://159.69.66.114:8080/uk4music/mpegts
+#EXTINF:0,358. UK: VH1
+http://159.69.66.114:8080/ukvh1/mpegts
+#EXTINF:0,359. DE: RTL
+http://159.69.66.114:8080/rtl/mpegts
+#EXTINF:0,360. DE: ZDF
+http://159.69.66.114:8080/zdf/mpegts
+#EXTINF:0,361. DE: VOX
+http://159.69.66.114:8080/vox/mpegts
+#EXTINF:0,362. DE: TNT Film TCM
+http://159.69.66.114:8080/tntfilmtcm/mpegts
+#EXTINF:0,363. IT: RAI 1 HD
+http://159.69.66.114:8080/itrai1hd/mpegts
+#EXTINF:0,364. IT: RAI 2 HD
+http://159.69.66.114:8080/itrai2hd/mpegts
+#EXTINF:0,365. IT: RAI 3 HD
+http://159.69.66.114:8080/itrai3hd/mpegts
+#EXTINF:0,366. IT: RAI 4 HD
+http://159.69.66.114:8080/itrai4hd/mpegts
+#EXTINF:0,367. IT: RAI 5
+http://159.69.66.114:8080/itrai5/mpegts
+#EXTINF:0,368. IT: RAI Movie
+http://159.69.66.114:8080/itraimovie/mpegts
+#EXTINF:0,369. IT: RAI Premium
+http://159.69.66.114:8080/itraipremium/mpegts
+#EXTINF:0,370. IT: RAI Sport 1
+http://159.69.66.114:8080/itraisport1/mpegts
+#EXTINF:0,371. IT: Rai Sport 2
+http://159.69.66.114:8080/itraisport2/mpegts
+#EXTINF:0,372. IT: Rai Yoyo
+http://159.69.66.114:8080/itraiyoyo/mpegts
+#EXTINF:0,373. IT: Italia 1
+http://159.69.66.114:8080/italia1/mpegts
+#EXTINF:0,374. IT: Italia 2
+http://159.69.66.114:8080/italia2/mpegts
+#EXTINF:0,376. IT: Discovery Science HD
+http://159.69.66.114:8080/itdiscoveryscience/mpegts
+#EXTINF:0,378. IT: Discovery Focus
+http://159.69.66.114:8080/itdiscoveryfocus/mpegts
+#EXTINF:0,379. IT: Nat Geo Wild HD
+http://159.69.66.114:8080/itnatgeowildhd/mpegts
+#EXTINF:0,380. IT: Animal Planet
+http://159.69.66.114:8080/itanimalplanet/mpegts
+#EXTINF:0,381. IT: FISHING TV
+http://159.69.66.114:8080/itfishingtv/mpegts
+#EXTINF:0,382. IT: Sky Uno HD
+http://159.69.66.114:8080/itskyuno/mpegts
+#EXTINF:0,383. IT: SKY Cinema Comedy
+http://159.69.66.114:8080/itskycinemacomedy/mpegts
+#EXTINF:0,384. IT: SKY Cinema Family
+http://159.69.66.114:8080/itskycinemafamily/mpegts
+#EXTINF:0,385. IT: SKY Cinema 1
+http://159.69.66.114:8080/itskycinema1/mpegts
+#EXTINF:0,386. IT: Sky Cinema  1 HD
+http://159.69.66.114:8080/itskycinema1hd/mpegts
+#EXTINF:0,387. IT: Sky Cinema Passion HD
+http://159.69.66.114:8080/itskycinemapassion/mpegts
+#EXTINF:0,388. IT: Sky Cinema Max HD
+http://159.69.66.114:8080/itskycinemamax/mpegts
+#EXTINF:0,389. IT: SKY Primafila 1
+http://159.69.66.114:8080/itskyprimafila1/mpegts
+#EXTINF:0,390. IT: SKY Primafila 2
+http://159.69.66.114:8080/itskyprimafila2/mpegts
+#EXTINF:0,391. IT: SKY Primafila 3
+http://159.69.66.114:8080/itskyprimafila3/mpegts
+#EXTINF:0,392. IT: SKY Primafila 4
+http://159.69.66.114:8080/itskyprimafila4/mpegts
+#EXTINF:0,393. IT: SKY Primafila 5
+http://159.69.66.114:8080/itskyprimafila5/mpegts
+#EXTINF:0,394. IT: SKY Primafila 6
+http://159.69.66.114:8080/itskyprimafila6/mpegts
+#EXTINF:0,395. IT: SKY Primafila 7
+http://159.69.66.114:8080/itskyprimafila7/mpegts
+#EXTINF:0,396. IT: SKY Primafila 8
+http://159.69.66.114:8080/itskyprimafila8/mpegts
+#EXTINF:0,397. IT: SKY Primafila 9
+http://159.69.66.114:8080/itskyprimafila9/mpegts
+#EXTINF:0,398. IT: SKY Primafila 10
+http://159.69.66.114:8080/itskyprimafila10/mpegts
+#EXTINF:0,399. IT: SKY Sports 1
+http://159.69.66.114:8080/itskysports1/mpegts
+#EXTINF:0,400. IT: SKY Sports 2
+http://159.69.66.114:8080/itskysport2/mpegts
+#EXTINF:0,402. IT: SKY Sports F1
+http://159.69.66.114:8080/itskysportf1/mpegts
+#EXTINF:0,403. IT: SKY Sport 24
+http://159.69.66.114:8080/itskysport24/mpegts
+#EXTINF:0,404. IT: SKY Moto GP
+http://159.69.66.114:8080/itskymotogp/mpegts
+#EXTINF:0,405. IT: Sport Italia
+http://159.69.66.114:8080/itsportitalia/mpegts
+#EXTINF:0,406. IT: Super Tennis
+http://159.69.66.114:8080/itsupertennis/mpegts
+#EXTINF:0,407. IT: Eurosport 1 HD
+http://159.69.66.114:8080/iteurosport1/mpegts
+#EXTINF:0,408. IT: Eurosport 2 HD
+http://159.69.66.114:8080/iteurosport2/mpegts
+#EXTINF:0,409. IT: Premium Cinema
+http://159.69.66.114:8080/itpremiumcinema/mpegts
+#EXTINF:0,410. IT: Premium Cinema 2
+http://159.69.66.114:8080/itpremiumceinema2/mpegts
+#EXTINF:0,411. IT: Premium Cinema Energy
+http://159.69.66.114:8080/itpremiumcinemaenergy/mpegts
+#EXTINF:0,412. IT: Premium Action
+http://159.69.66.114:8080/itpremiumaction/mpegts
+#EXTINF:0,413. IT: Premium Comedy
+http://159.69.66.114:8080/itpremiumcomedy/mpegts
+#EXTINF:0,414. IT: Premium Stories
+http://159.69.66.114:8080/itpremiumstories/mpegts
+#EXTINF:0,415. IT: Premium Emotion
+http://159.69.66.114:8080/itpremiumemotion/mpegts
+#EXTINF:0,416. IT: Premium Disney Junior
+http://159.69.66.114:8080/itpremiumdisneyjunior/mpegts
+#EXTINF:0,418. IT: Mediaset Iris
+http://159.69.66.114:8080/itmediairis/mpegts
+#EXTINF:0,419. IT: Mediaset Extra
+http://159.69.66.114:8080/itmediaextra/mpegts
+#EXTINF:0,420. IT: Canale5
+http://159.69.66.114:8080/canale5/mpegts
+#EXTINF:0,422. IT: RSI LA 1
+http://159.69.66.114:8080/itrsila1/mpegts
+#EXTINF:0,423. IT: RSI LA 2
+http://159.69.66.114:8080/itrsila2/mpegts
+#EXTINF:0,424. IT: Fox Life HD
+http://159.69.66.114:8080/itfoxlifehd/mpegts
+#EXTINF:0,425. IT: Fox Crime HD
+http://159.69.66.114:8080/itfoxcrimehd/mpegts
+#EXTINF:0,427. IT: LA 7
+http://159.69.66.114:8080/la7/mpegts
+#EXTINF:0,428. IT: Rete 4
+http://159.69.66.114:8080/rete4/mpegts
+#EXTINF:0,429. IT: TOP CRIME
+http://159.69.66.114:8080/ittopcrime/mpegts
+#EXTINF:0,430. IT: Real Time
+http://159.69.66.114:8080/itrealtime/mpegts
+#EXTINF:0,431. IT: Cielo
+http://159.69.66.114:8080/itcielo/mpegts
+#EXTINF:0,432. IT: Boing
+http://159.69.66.114:8080/itboing/mpegts
+#EXTINF:0,433. IT: MarcoPolo
+http://159.69.66.114:8080/itmarcopolo/mpegts
+#EXTINF:0,434. IT: Cartoonito
+http://159.69.66.114:8080/itcartoonito/mpegts
+#EXTINF:0,435. FR: Euronews
+http://159.69.66.114:8080/euronewsfr/mpegts
+#EXTINF:0,436. FR: France 24
+http://159.69.66.114:8080/france24/mpegts
+#EXTINF:0,437. FR: France3
+http://159.69.66.114:8080/france3/mpegts
+#EXTINF:0,438. FR: RTL9
+http://159.69.66.114:8080/rtl9/mpegts
+#EXTINF:0,439. FR: W9
+http://159.69.66.114:8080/w9/mpegts
+#EXTINF:0,440. FR: Boomerang HD
+http://159.69.66.114:8080/boomeranghd/mpegts
+#EXTINF:0,441. FR: 13 Emu Rue HD
+http://159.69.66.114:8080/13emuruehd/mpegts
+#EXTINF:0,442. FR: NRJ12 HD
+http://159.69.66.114:8080/nrj12hd/mpegts
+#EXTINF:0,443. FR: Nat Geo Wild HD
+http://159.69.66.114:8080/natgeowildhdfr/mpegts
+#EXTINF:0,444. FR: Discovery Sceience HD
+http://159.69.66.114:8080/discoverysciencehdfr/mpegts
+#EXTINF:0,445. FR: Canal Series
+http://159.69.66.114:8080/canalseries/mpegts
+#EXTINF:0,446. FR: Canal Decale
+http://159.69.66.114:8080/canaldecale/mpegts
+#EXTINF:0,447. FR: Canal Family
+http://159.69.66.114:8080/canalfamily/mpegts
+#EXTINF:0,448. FR: Canal Cinema
+http://159.69.66.114:8080/canalcinema/mpegts
+#EXTINF:0,449. AR: Aljazeera
+http://159.69.66.114:8080/aljazera/mpegts
+#EXTINF:0,450. AR: AlJadeed
+http://159.69.66.114:8080/aljadeed/mpegts
+#EXTINF:0,451. AR: Almayadeen
+http://159.69.66.114:8080/almayadeen/mpegts
+#EXTINF:0,452. AR: OTV
+http://159.69.66.114:8080/otv/mpegts
+#EXTINF:0,453. AR: LBC
+http://159.69.66.114:8080/lbc/mpegts
+#EXTINF:0,454. AR: ART Cinema
+http://159.69.66.114:8080/artcinema/mpegts
+#EXTINF:0,455. AR: MBC1
+http://159.69.66.114:8080/mbc1/mpegts
+#EXTINF:0,456. AR: MBC2
+http://159.69.66.114:8080/mbc2/mpegts
+#EXTINF:0,457. AR: MBC3
+http://159.69.66.114:8080/mbc3/mpegts
+#EXTINF:0,458. AR: MBC4
+http://159.69.66.114:8080/mbc4/mpegts
+#EXTINF:0,459. AR: MBC Action
+http://159.69.66.114:8080/mbcaction/mpegts
+#EXTINF:0,460. AR: MBC Max
+http://159.69.66.114:8080/mbcmax/mpegts
+#EXTINF:0,461. AR: MBC Drama
+http://159.69.66.114:8080/mbcdrama/mpegts
+#EXTINF:0,462. AR: MBC Bollywood
+http://159.69.66.114:8080/mbcbollywood/mpegts
+#EXTINF:0,463. AR: Rotana Cinema
+http://159.69.66.114:8080/rotanacinema/mpegts
+#EXTINF:0,464. AR: Rotana Classic
+http://159.69.66.114:8080/rotanaclassic/mpegts
+#EXTINF:0,465. AR: Rotana Masriah
+http://159.69.66.114:8080/rotanamasriah/mpegts
+#EXTINF:0,466. AR: Rotana Akhalijiah
+http://159.69.66.114:8080/rotanakhalijiah/mpegts
+#EXTINF:0,467. AR: Rotana Music
+http://159.69.66.114:8080/rotanamusic/mpegts
+#EXTINF:0,468. AR: Rotana Clip
+http://159.69.66.114:8080/rotanaclip/mpegts
+#EXTINF:0,469. AR: OSN Movies
+http://159.69.66.114:8080/osnmovies/mpegts
+#EXTINF:0,470. AR: OSN Movie Thriller
+http://159.69.66.114:8080/osnmoviethriller/mpegts
+#EXTINF:0,471. AR: OSN Sports
+http://159.69.66.114:8080/osnsports/mpegts
+#EXTINF:0,472. AR: OSN Action
+http://159.69.66.114:8080/osnaction/mpegts
+#EXTINF:0,473. AR: Bein Sports 1 HD
+http://159.69.66.114:8080/beinsports1arb/mpegts
+#EXTINF:0,474. AR: Bein Sports 2 HD
+http://159.69.66.114:8080/beinsports2arb/mpegts
+#EXTINF:0,475. AR: Bein Sports 3 HD
+http://159.69.66.114:8080/beinsports3arb/mpegts
+#EXTINF:0,476. AR: Bein Sports 4 HD
+http://159.69.66.114:8080/beinsports4arb/mpegts
+#EXTINF:0,477. AR: Bein Sports 5 HD
+http://159.69.66.114:8080/beinsports5arb/mpegts
+#EXTINF:0,478. AR: Bein Sports 6 HD
+http://159.69.66.114:8080/beinsports6arb/mpegts
+#EXTINF:0,479. AR: Bein Sports 7 HD
+http://159.69.66.114:8080/beinsports7arb/mpegts
+#EXTINF:0,480. AR: Bein Sports 8 HD
+http://159.69.66.114:8080/beinsports8arb/mpegts
+#EXTINF:0,481. AR: Bein Sports 9 HD
+http://159.69.66.114:8080/beinsports9arb/mpegts
+#EXTINF:0,482. AR: Bein Sports 10 HD
+http://159.69.66.114:8080/beinsports10arb/mpegts
+#EXTINF:0,483. AR: Bein Sports 11 HD
+http://159.69.66.114:8080/beinsports11arb/mpegts
+#EXTINF:0,484. AR: Bein Sports 12 HD
+http://159.69.66.114:8080/beinsports12arb/mpegts
+#EXTINF:0,485. AR: Bein Sports 13 HD
+http://159.69.66.114:8080/beinsports13arb/mpegts
+#EXTINF:0,486. TR: Bein Sports 1 HD
+http://159.69.66.114:8080/beinsports1turk/mpegts
+#EXTINF:0,487. TR: Bein Sports 2 HD
+http://159.69.66.114:8080/beinsports2turk/mpegts
+#EXTINF:0,488. TR: Bein Sports 3 HD
+http://159.69.66.114:8080/beinsports3turk/mpegts
+#EXTINF:0,489. TR: Bein Sports 4 HD
+http://159.69.66.114:8080/beinsports4turk/mpegts
+#EXTINF:0,490. TR: TivibuSpor 1 HD
+http://159.69.66.114:8080/tivibuspor1/mpegts
+#EXTINF:0,491. TR: TivibuSpor 2 HD
+http://159.69.66.114:8080/tivibuspor2/mpegts
+#EXTINF:0,492. TR: TivibuSpor 3 HD
+http://159.69.66.114:8080/tivibuspor3/mpegts
+#EXTINF:0,493. AZ: AZTV HD
+http://185.129.1.242:80/aztvhd/mpegts
+#EXTINF:0,494. AZ: İdman Azərbaycan HD
+http://185.129.1.242:80/idmanazhd/mpegts
+#EXTINF:0,495. AZ: XezerTV HD
+http://185.129.1.242:80/xezertvhd/mpegts
+#EXTINF:0,496. AZ: Azad Azerbaycan HD
+http://185.129.1.242:80/nashfutbolhd/mpegts
+#EXTINF:0,497. TR: Star TV HD
+http://185.129.1.242:80/starhd/mpegts
+#EXTINF:0,498. TR: ATV Türkiye HD
+http://185.129.1.242:80/atvhd/mpegts
+#EXTINF:0,499. TR: Show TV HD
+http://185.129.1.242:80/showtvhd/mpegts
+#EXTINF:0,500. TR: TV8 HD
+http://185.129.1.242:80/tv8hd/mpegts
+#EXTINF:0,501. TR: NTV turk HD
+http://185.129.1.242:80/ntvturkhd/mpegts
+#EXTINF:0,502. TR: Kanal 7 HD
+http://185.129.1.242:80/kanal7hd/mpegts
+#EXTINF:0,503. RU: Первый HD
+http://185.129.1.242:80/perviyhd/mpegts
+#EXTINF:0,504. TR: DmaxHD
+http://185.129.1.242:80/dmaxhd/mpegts
+#EXTINF:0,505. TR: A Haber HD
+http://185.129.1.242:80/ahaberhd/mpegts
+#EXTINF:0,506. TR: A SPOR HD
+http://185.129.1.242:80/asporhd/mpegts
+#EXTINF:0,507. RU: НТВ HD
+http://185.129.1.242:80/ntvhd/mpegts
+#EXTINF:0,508. RU: Кинопремьера HD
+http://185.129.1.242:80/kinopremerahd/mpegts
+#EXTINF:0,509. RU: Дом Кино Премиум HD
+http://185.129.1.242:80/domkinopremiumhd/mpegts
+#EXTINF:0,510. RU: Amedia Premium HD
+http://185.129.1.242:80/amediapremiumhd/mpegts
+#EXTINF:0,511. RU: VIP Premium HD
+http://159.69.66.114:8080/vippremiumhd/mpegts
+#EXTINF:0,512. RU: VIP Megahit HD
+http://159.69.66.114:8080/vipmegahithd/mpegts
+#EXTINF:0,513. RU: VIP Comedy HD
+http://159.69.66.114:8080/vipcomedyhd/mpegts
+#EXTINF:0,514. RU: Fox HD
+http://185.129.1.242:80/foxhd/mpegts
+#EXTINF:0,516. RU: Discovery Channel HD
+http://185.129.1.242:80/discoverychannelhd/mpegts
+#EXTINF:0,517. RU: Nat Geo Wild HD
+http://185.129.1.242:80/natgeowildhd/mpegts
+#EXTINF:0,518. RU: Animal Planet HD
+http://185.129.1.242:80/animalplanethd/mpegts
+#EXTINF:0,519. RU: Travel Channel HD
+http://185.129.1.242:80/travelchannelhd/mpegts
+#EXTINF:0,520. RU: Viasat Nature HD
+http://185.129.1.242:80/viasatnaturehd/mpegts
+#EXTINF:0,521. RU: History HD
+http://185.129.1.242:80/historyhd/mpegts
+#EXTINF:0,522. RU: MTV Live HD
+http://185.129.1.242:80/mtvlivehd/mpegts
+#EXTINF:0,523. RU: Mezzo Live HD
+http://185.129.1.242:80/mezzolivehd/mpegts
+#EXTINF:0,524. RU: Матч ТВ HD
+http://185.129.1.242:80/matchtvhd/mpegts
+#EXTINF:0,525. RU: Матч Премьера
+http://159.69.66.114:8080/hdlifehd/mpegts
+#EXTINF:0,526. RU: Матч! Арена HD
+http://185.129.1.242:80/matcharenahd/mpegts
+#EXTINF:0,527. RU: Матч! Игра HD
+http://185.129.1.242:80/matchiqrahd/mpegts
+#EXTINF:0,528. RU: Матч! Футбол 1 HD
+http://185.129.1.242:80/matchfutbol1hd/mpegts
+#EXTINF:0,529. RU: Матч! Футбол 2 HD
+http://185.129.1.242:80/matchfutbol2hd/mpegts
+#EXTINF:0,530. RU: Матч! Футбол 3 HD
+http://185.129.1.242:80/matchfutbol3hd/mpegts
+#EXTINF:0,531. RU: EuroSport 1 HD
+http://185.129.1.242:80/eurosport1hd/mpegts
+#EXTINF:0,532. RU: Viasat Sport HD
+http://185.129.1.242:80/viasatsporthd/mpegts
+#EXTINF:0,533. RU: КХЛ HD
+http://185.129.1.242:80/kxlhd/mpegts
+#EXTINF:0,534. RU: Nickelodeon HD
+http://185.129.1.242:80/nickelodeonhd/mpegts
+#EXTINF:0,535. RU: Тлум HD
+http://185.129.1.242:80/tlumhd/mpegts

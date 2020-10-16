@@ -1,0 +1,4 @@
+#EXTM3U url-autor="FREE IPTV M3U - IPTV LINKS - M3U PLAYLIST https://hdbox.ws/" 
+#EXTINF:-1,Фантастика HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.361
+https://hls.goodgame.ru/hls/178436.m3u8
